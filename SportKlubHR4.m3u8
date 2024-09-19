@@ -3,3 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:0.1,
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=220778&extension=ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=6224&extension=ts
